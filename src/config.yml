@@ -1,0 +1,9 @@
+#Database Credentials
+username: root
+host: localhost
+port: 3306
+database: skywars
+password: Jorentje08
+
+#Prefix in front of every message send by this plugin
+chat-prefix: "&eSkyLobby >> &f"

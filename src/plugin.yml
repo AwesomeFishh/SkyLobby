@@ -1,0 +1,7 @@
+name: SkyLobby
+version: 1.0.0
+main: me.awesomefishh.skylobby.Main
+commands:
+   skylobby:
+      description: Main command for this plugin!
+      aliases: [sl, skyl, slobby]
